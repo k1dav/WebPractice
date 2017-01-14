@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^query.php?([a-z0-9]*)$ /query.php?id=$1 

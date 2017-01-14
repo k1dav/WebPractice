@@ -1,0 +1,5 @@
+#<Directory D:\AppServ\www\redirect>
+#AllowOverride All
+# Order deny,allow
+# Deny from all
+#< /Directory>
